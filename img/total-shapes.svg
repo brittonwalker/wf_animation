@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="460.07" height="348.6" viewBox="0 0 460.07 348.6" preserveAspectRatio="xMaxYMax">
+    <defs><style>.cls-1 {fill: #17d8dc;}.cls-2 {fill: #ded9d5;} .cls-3 {fill: #FFF9F1;}</style></defs>
+    <title>shapes</title>
+    <path class="cls-1 second-half-circle" d="M771.75,651.57v-.1H656v.1H540.23a115.76,115.76,0,1,0,231.52,0Z" transform="translate(-540.23 -651.4)"/>
+    <path class="cls-1 half-circle" d="M884.34,651.52h-.1V767.28h.1V883a115.76,115.76,0,1,0,0-231.52Z" transform="translate(-652 -650)" />
+    <rect class="cls-3 grey-rect" x="116" y="116" width="116" height="116" />
+    <circle class="cls-2 circ" cx="174.54" cy="57.88" r="57.88" />
+    <circle class="cls-2 circ-last" cx="120" cy="57" r="57.88" />
+    <rect class="cls-2 rect-circ" y="232" x="0" width="116" height="116" /> <!-- 174 -->
+    <circle class="cls-2 circ-rect" cx="290" cy="290" r="58" />
+    <rect class="cls-1 green-rect" y="232" width="116" height="116" />
+</svg>

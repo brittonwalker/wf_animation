@@ -1,0 +1,37 @@
+@import 'app/_reset';
+
+.outer {
+    position: relative;
+    background-color: #f8f8f8;
+    background-image: url('../img/Homepage_Background-Clean.png');
+    background-position: 50%;
+    background-size: cover;
+    &:before {
+        display: block;
+        content: "";
+        width: 100%;
+        padding-top: (9 / 16) * 100%;
+    }
+    >.inner {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+}
+
+.svg-wrapper {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+    svg {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        height: 100%;
+    }
+}
